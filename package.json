@@ -19,7 +19,11 @@
 	},
 	"homepage": "https://github.com/LambdaSchool/Sprint-Challenge--Testing#readme",
 	"dependencies": {
-		"express": "^4.16.4"
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"helmet": "^3.18.0",
+		"knex": "^0.17.6",
+		"sqlite3": "^4.0.9"
 	},
 	"devDependencies": {
 		"jest": "^23.6.0",
